@@ -1,8 +1,6 @@
-id=font-mejiro-oshi
-name=Mejiro Font
-version=v19
-versionCode=19
-author=AndroPlus
-description=Mejiro font patch for Japanese users.
-donate=https://github.com/sponsors/AndroPlus-org?frequency=one-time
-updateJson=https://raw.githubusercontent.com/AndroPlus-org/magisk-module-mejiro-font/master/update.json
+id=font-notosans-jp
+name=NotoSans JP
+version=v1
+versionCode=1
+author=Re*Index.(ot_inc)
+description=Replace to NotoSansJP!

@@ -1,4 +1,4 @@
-# Magisk Module Noto Sans JP
+# Magisk Noto Sans JP
 
 英数字はRoboto、2バイト文字はNotoSans JPにシステムレベルで変更するモジュールです。
 

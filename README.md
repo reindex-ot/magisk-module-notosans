@@ -6,7 +6,14 @@
 
 システム内のフォントを置き換えるのでXiaomi.euの一部アプリが中華フォントになってしまう問題なども回避可能になります。
 
-#### 注意
+### フォントの紹介
+このモジュールで使用しているRobotoとNoto Sans JPを合成したフォントを公開しています。
+
+デフォルトのNoto Sansの英数字のダサさを改善している物になります。
+
+[Roboto + Noto Sans JP](https://github.com/reindex-ot/RobotoNotoSansJP)
+
+### 注意
 
 * 最新のMagiskでの使用を推奨します。Magiskからのインストールに失敗をした場合はリカバリーからインストールを行なってください。
 
